@@ -50,6 +50,7 @@ Following are the pages and their uses in short:
 
 You need to create groups for easier classification of users on various Rankings page.
 
+git flow
 How to conduct a contest
 ------------------------
 
